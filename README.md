@@ -25,4 +25,3 @@
 - <img src="./images/photos/head-of-development.jpg" alt="drawing" width="200"/> Head of Development Tılsımov İskender (Turkey)
 - <img src="./images/photos/junior-developer.jpg" alt="drawing" width="200"/> Junior Go Developer Талисманов Аляксандр (Belarus) 
 - <img src="./images/photos/junior2.jpg" alt="drawing" width="200"/> Junior Python Developer Talismanov Alexandre (Brazil) 
-
