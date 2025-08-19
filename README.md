@@ -3,12 +3,16 @@
 ## В этом репозитории будут собраны архитектурные артефакты для построения one-man-bank о этапах которого буду повествовать в telegram канале talismanovIT
 
 ### Задача данного репозитория проектировать и документировать предстоящие работы, а самое главное попытаться воплотить их руками
+[телеграм канал talismanovIT](https://t.me/talismanovIT)
+## Наша команда:
 
-## Команда:
-
-- Талисманов Александр [телеграм канал talismanovIT](https://t.me/talismanovIT)
-
-## Структура:  
+- <img src="images/photos/ceo.jpg" alt="drawing" width="200"/> CEO Талисманов Александр (Russia)
+- <img src="images/photos/cto.jpg" alt="drawing" width="200"/> CTO Talismanov Aleksandr (US)
+- <img src="./images/photos/chief-arch.jpg" alt="drawing" width="200"/> Chief Architect Талисмани Александър (Buglaria) 
+- <img src="./images/photos/head-of-development.jpg" alt="drawing" width="200"/> Head of Development Tılsımov İskender (Turkey)
+- <img src="./images/photos/junior-developer.jpg" alt="drawing" width="200"/> Junior Go Developer Талисманов Аляксандр (Belarus) 
+- <img src="./images/photos/junior2.jpg" alt="drawing" width="200"/> Junior Python Developer Talismanov Alexandre (Brazil) 
+## Структура: //TODO 
 
 * Бизнес цели
   * извлечение прибыли от банковской деятельности
