@@ -14,11 +14,11 @@
 TODO
 
 ## 4.1. Бизнес-процессы
-![Заведение депозита](images/Business Process Diagram.bmp)
+![Заведение депозита](images/Business-Process-Diagram.bmp)
 ## 4.2. Шаги процесса (Sequence diagrams)
 TODO
 ## 5.1 Схема взаимодействие систем/сервисов уровень приложений (Application Layer)
-![Component Diagram.bmp](images/Component Diagram.bmp)
+![Component Diagram.bmp](images/Component-Diagram.bmp)
 ## 5.2 Схема развертывания. Инфраструктурный уровень (Technology Layer)
 ![Deposit-Deployment-Diagram.bmp](images/Deposit-Deployment-Diagram.bmp)
 
